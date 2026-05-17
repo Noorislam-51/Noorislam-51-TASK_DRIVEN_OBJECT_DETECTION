@@ -1,0 +1,6 @@
+coco/
+dependencies/
+venv/
+*.pt
+__pycache__/
+*.pycgit 
